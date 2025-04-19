@@ -10,7 +10,26 @@ We are learning how to make commits..
 5. How are you!
 
 We are about to make a commit without best practices
+
+Hello
 =======
+# Created the repo remotely
+
+git clone <url>
+
+
+# created a branch locally
+
+git checkout <branch>
+git checkout -b <new branch>
+git add ...; git commit -m "..." (several times)
+git push --set-upstream origin <new branch>
+git pull [origin <new branch>]
+
+# create a new branch remotely
+
+using the Github UI to create<branch>
+
 We are learning how to make commits..
 >>>>>>> 5bfab5e (Adding a Readme)
 
